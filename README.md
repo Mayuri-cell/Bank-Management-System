@@ -19,9 +19,12 @@ and time management. We got experience of working with different people with dif
 So we have got one of the best experience while working on this project .
 
 Features of the System :
+
 In this project we have made all the operations that can make easy interaction and management of data
 for a user and bank:
+
 We have done the bank system operations under the project which is reliable to use for everyone .
+
 a) We can create, modify, delete and search the account of a user .
 This operations can be done by customer panel .
 b) Under staff panel , you can done the operations of withdrawal , deposit of the user
