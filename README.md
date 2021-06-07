@@ -25,10 +25,10 @@ for a user and bank:
 
 We have done the bank system operations under the project which is reliable to use for everyone .
 
-a) We can create, modify, delete and search the account of a user .
+a) We can create, modify, delete and search the account of a user .                               
 This operations can be done by customer panel .
 b) Under staff panel , you can done the operations of withdrawal , deposit of the user
-account.
-c) Money transfer from one account to another can also be possible .
-d) ATM service and Loan Service are introduced .
-e) User can do all these operations smoothly .
+account.                                                                                         
+c) Money transfer from one account to another can also be possible .                                      
+d) ATM service and Loan Service are introduced .                                                  
+e) User can do all these operations smoothly .                                                    
