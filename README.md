@@ -12,6 +12,7 @@ As we are using c++ , we have done the operations using classes and object .
 We have made the data variables private which enhances the security of the system .
 
 3. What did you learn while working on this project?
+
 We have done this project using Doubly Linked List in C++. We learnt a lot more about linked list and a
 very important and essential concepts of C++. We have also learnt about how the bank actually works,
 what all functions bank can do. We learn some of important skills like teamwork, organization, planning
